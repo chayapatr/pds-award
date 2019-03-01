@@ -1,0 +1,8 @@
+{
+  "name": "pds-award",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "chayapatr <chayapatr.arc@gmail.com>",
+  "license": "MIT",
+  "repository": "github.com/chayapatr/pds-student"
+}
